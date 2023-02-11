@@ -26,3 +26,4 @@ amnesia_db-*.tar
 /tmp/
 
 /segments/
+/lib/segments/
