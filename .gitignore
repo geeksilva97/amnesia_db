@@ -24,3 +24,5 @@ amnesia_db-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+/segments/
