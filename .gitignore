@@ -27,3 +27,4 @@ amnesia_db-*.tar
 
 /segments/
 /lib/segments/
+.DS_Store
